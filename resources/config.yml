@@ -1,4 +1,5 @@
-
 #Enderpearl cooldown in seconds
-
 cooldown: 5
+
+#Enderpearl cooldown message. use {cooldown} to get cooldown time
+message: "You cannot use a EnderPearl until {cooldown} seconds."
