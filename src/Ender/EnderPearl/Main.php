@@ -1,6 +1,6 @@
 <?php
 
-namespace Ender\EnderPearl;
+namespace AdminConfirmed\EnderPearlCooldown;
 
 use pocketmine\item\Item;
 use pocketmine\utils\Config;

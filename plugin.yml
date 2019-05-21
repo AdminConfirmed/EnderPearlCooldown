@@ -1,6 +1,6 @@
 name: EnderPearlCD
 
-main: Ender\EnderPearl\Main
+main: AdminConfirmed\EnderPearlCooldown\Main;
 
 version: 0.0.1
 
