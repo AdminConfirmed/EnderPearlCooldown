@@ -1,6 +1,12 @@
 # EnderPearlCooldown
+A fully customizable Ender pearl cooldown.
 
-[![](https://poggit.pmmp.io/shield.state/EnderPearlCD)](https://poggit.pmmp.io/p/EnderPearlCD)
-<a href="https://poggit.pmmp.io/p/EnderPearlCD"><img src="https://poggit.pmmp.io/shield.state/EnderPearlCD"></a>
+#Usage:
 
-[![](https://poggit.pmmp.io/shield.api/EnderPearlCD)](https://poggit.pmmp.io/p/EnderPearlCD)<a href="https://poggit.pmmp.io/p/EnderPearlCD"><img src="https://poggit.pmmp.io/shield.api/EnderPearlCD"></a>
+#To change cooldown timer
+You can either use /pearlcooldown to change the cooldown or
+you can edit in the config.yml file
+
+#To change cooldown message
+You can change it in the config.yml file and use {cooldown} to
+get the cooldown timer
